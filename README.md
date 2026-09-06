@@ -20,7 +20,7 @@ The video shows a small, deliberately messy legacy Node.js file — `var`-everyw
 
 ## Try HoBASpeak
 
-🔗 [ho-ba-speak.replit.app](https://ho-ba-speak.replit.app/)
+The public demo is now closed. For Access Contact Hobasupport@gmail.com 
 
 ---
 

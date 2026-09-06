@@ -20,7 +20,7 @@ The video shows a small, deliberately messy legacy Node.js file — `var`-everyw
 
 ## Try HoBASpeak
 
-The public demo is now closed. For Access Contact Hobasupport@gmail.com 
+The public demo is now closed. For Access Contact Hobasupport@gmail.com Or, you may purchase access at Houseofblueapps.com
 
 ---
 
